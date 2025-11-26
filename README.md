@@ -16,10 +16,6 @@ The system extracts text, chunks it, generates embeddings, stores them in a vect
 
 🧩 Smart text chunking + embedding generation
 
-🤖 Context-aware answers using Google Gemini API
-
-🎨 Clean UI using Streamlit
-
 ⚙️ Environment-configurable with .env
 
 📁 Modular LangChain-based pipeline
